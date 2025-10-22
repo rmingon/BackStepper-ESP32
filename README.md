@@ -4,6 +4,16 @@ BackStepper-ESP32 is a custom control board that bolts onto the rear face of a N
 
 > Designed with KiCad 9.0 (2025 snapshot); all project files live under `hardware/`.
 
+## Visuals
+
+![3D top render of the BackStepper-ESP32 PCB](<3d_top.png>)
+
+![3D bottom render showing the NEMA17 mounting face](<3d_bottom.png>)
+
+![Layer view of the assembled PCB layout](<pcb.png>)
+
+![High-level schematic overview](<schematic.png>)
+
 ## Highlights
 
 - ESP32-WROOM-32 module exposed for Wi-Fi/Bluetooth firmware as well as classic STEP/DIR motion control.
