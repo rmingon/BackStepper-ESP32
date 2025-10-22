@@ -1,0 +1,79 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+Preamble
+
+This licence is intended to promote collaboration among hardware designers and users of hardware. The CERN Open Hardware Licence (CERN-OHL) is copyright © CERN 2020. Anyone is welcome to copy, distribute, and modify the CERN-OHL, but changing it is not allowed.
+
+The CERN-OHL comes in three variants: this licence is the Strongly Reciprocal variant. The other variants are the Weakly Reciprocal CERN-OHL-W and the Permissive CERN-OHL-P. You may redistribute Source or Products under a different variant of the CERN-OHL provided that you comply with the conditions of that variant.
+
+1 Definitions
+
+In this licence, the following terms have the following meanings:
+
+"Licence" means this CERN-OHL-S.
+
+"Compatible Licence" means any of: CERN-OHL-S, CERN-OHL-W, CERN-OHL-P, the GNU General Public License (GPL) Version 3, the GNU Lesser General Public License (LGPL) Version 3, the GNU Affero General Public License (AGPL) Version 3, the Apache License Version 2.0, the BSD 3-Clause License, the MIT License, and any licence specifically listed by CERN as a Compatible Licence.
+
+"Source" means information such as design materials or digital code which can be applied to make or configure a Product or to prepare a Product for use with another Product, regardless of its medium or how it is expressed. It includes Schematics, Hardware Description Language (HDL) code, board layout descriptions, netlists, radial or point cloud data, manufacturing files, and other digital representations of physical objects. Source does not include data made available solely for operation or use of a Product.
+
+"Product" means any device or physical object, whether in finished or intermediate form, and any component to be used in such a device or physical object.
+
+"Recipient" means anyone who receives Source or Products under this Licence, including any employees or contractors acting on their behalf.
+
+"Derivative" means a modified form of the Source, or any other information derived from the Source, such as a design using the Source as a starting point, or a design which incorporates the Source or any of its modifications, either in whole or in part.
+
+"Complete Source" means the set of Source that is sufficient to enable a Recipient to make or to configure the Product to which such Source applies. It must be in the preferred form for making modifications, including any scripts, documentation, or technology needed. It does not include Source for tools used to design or develop the Product, provided those tools can be reasonably acquired by anyone who needs them, and that it is not necessary to have the tool's Source to modify the Product.
+
+2 Applicability
+
+2.1 This Licence governs the use, copying, modification, communication, and distribution of the Source, and the manufacture, use, offering for sale, sale, import, and other distribution of Products. By exercising any of those rights, you agree to abide by the terms and conditions of this Licence.
+
+2.2 This Licence does not by itself grant you rights to use any trademarks or names belonging to the Licensor, except as expressly provided in Section 3.5.
+
+3 Copying, modification, communication, and distribution of the Source
+
+3.1 You may copy and communicate the Source, provided that you include a copy of this Licence in each copy of Source you make or communicate, and you credit the Original Licensor(s) as the copyright holder(s) of the Source. If you modify the Source, you must also keep a log of the changes to the Source under Section 3.3.
+
+3.2 You may modify the Source to create Derivatives, provided that you retain the notices contained in the Source (including attribution notices, copyright notices, disclaimers, references to this Licence, and others) and you include the same notices in any Derivative you make.
+
+3.3 You must maintain, in the Source or Derivative you distribute, documentation describing the modifications that you have made. This documentation must be provided at least in a text file (or in the relevant format for the Source) and include the identity of the person making the modifications and a concise description of the changes.
+
+3.4 You must make any Derivative available under this Licence. This means that if you distribute Derivative Source or Products based on that Derivative, you must provide access to the Corresponding Source, under this Licence, to any Recipient. The Corresponding Source must be made available within a reasonable time, in a reasonable manner, and at no charge (other than reasonable costs of data transfer).
+
+3.5 You may not use the Licensor's trademarks or brands except as required to comply with the attribution requirement in Section 3.1, unless you obtain permission from the Licensor.
+
+4 Manufacture and distribution of Products
+
+4.1 You may manufacture and distribute Products, and you may arrange for others to do so on your behalf. Any Product you distribute must be accompanied by a copy of this Licence and the notices required by Section 3.2.
+
+4.2 You must ensure that any Recipient of a Product manufactured or distributed by you is given access to the Complete Source, free of charge (except for reasonable costs of data transfer), within a reasonable time. The Complete Source must clearly indicate the version of the Licence and include the changes required by Section 3.3.
+
+4.3 If you make modifications to the Source and those modifications are not accessible to a Recipient otherwise, you must provide the Complete Source under the terms of this Licence, including your modifications.
+
+4.4 If any part of the Product is not developed by you, you must ensure that you have the right to distribute that part under this Licence.
+
+5 Warranty, liability, and indemnity
+
+5.1 The Source is provided "as is" and any express or implied warranties, including, but not limited to, implied warranties of merchantability, of satisfactory quality, of fitness for a particular purpose, and non-infringement of third party rights are disclaimed. In no event shall the Licensor or any Contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services, loss of use, data, or profits, or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of the Source or Product, even if advised of the possibility of such damage.
+
+5.2 You are solely responsible for ensuring that your use of the Source does not infringe any third party's intellectual property rights. If you distribute a Product or Derivative, you agree to indemnify the Licensor and any Contributors for any liability, damages, and costs (including reasonable legal fees) arising from your use, modification, or distribution of the Source or Product which results in infringement of any third party's intellectual property rights.
+
+6 Patents
+
+6.1 You are granted a licence to those patent claims owned by the Licensor that are necessarily infringed by the Source, Derivative, or Product.
+
+6.2 If you institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Source or a Product directly or indirectly infringes any patent, then all rights granted to you under this Licence shall terminate as of the date such litigation is filed.
+
+7 General
+
+7.1 If any provision of this Licence is invalid or unenforceable, that shall not affect the validity or enforceability of the remainder of the Licence.
+
+7.2 This Licence shall be governed by the laws of Switzerland. Any dispute arising from or in connection with this Licence will be subject to the exclusive jurisdiction of the competent courts of Geneva, Switzerland.
+
+7.3 You may choose to offer, and to charge a fee for, warranty, support, indemnity, or liability obligations to one or more Recipients, provided that you do so on your own behalf, and not on behalf of the Licensor or any Contributor. You must make it clear that any such rights offered by you are without the participation of the Licensor or any Contributor.
+
+7.4 Nothing in this Licence limits or expands the rights granted by any Compatible Licence. If you wish to use the Source under the terms of a Compatible Licence, you must comply with the terms of that Compatible Licence.
+
+7.5 By modifying or distributing the Source (or any Derivative) or by manufacturing or distributing a Product, you agree to be bound by the terms of this Licence.
+
+-- End of CERN-OHL-S-2.0 --
